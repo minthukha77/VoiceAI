@@ -1,0 +1,12 @@
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 19:32:40,028 :: DEBUG :: T1_ ============ START 1 audio_id: 145 ============
+2022-10-06 19:32:40,045 :: DEBUG :: T1_ ????: Thu Oct 06 19:32:40 2022
+2022-10-06 19:32:40,062 :: DEBUG :: T1_ ???????: 366.4 KiB
+2022-10-06 19:32:40,063 :: DEBUG :: T1_ MEM###Before GCP Call: 30,012 kB
+2022-10-06 19:32:50,753 :: DEBUG :: T1_ GCP Completed at Thu Oct 06 19:32:50 2022
+2022-10-06 19:32:50,753 :: DEBUG :: T1_ MEM###After GCP Call: 96,936 kB
+2022-10-06 19:33:02,308 :: DEBUG :: T1_ ????: Thu Oct 06 19:33:02 2022
+2022-10-06 19:33:02,308 :: DEBUG :: T1_ ????: 00:00:10
+2022-10-06 19:33:02,308 :: DEBUG :: T1_ AUDIO_ID: 145_[{stop=4.0, speaker=1, start=0.0, text=?????????????????}, {stop=7.2, speaker=2, start=4.0, text=??????????????????}]
+2022-10-06 19:33:02,308 :: DEBUG :: T1_ AUDIO_ID: 145_WEBHOOK_RETURN_STATUS: true
+2022-10-06 19:33:02,308 :: DEBUG :: T1_ ============ END 1 audio_id: 145 ============

@@ -1,0 +1,25 @@
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 19:44:55,474 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 145
+2022-10-06 19:44:55,490 :: DEBUG :: AUDIO_ID: 145_Language: ja
+2022-10-06 19:44:55,503 :: DEBUG :: AUDIO_ID: 145_Diarization: 1
+2022-10-06 19:44:55,503 :: DEBUG :: AUDIO_ID: 145_Speaker Number: 2
+2022-10-06 19:44:55,504 :: DEBUG :: AUDIO_ID: 145_Wait: 0
+2022-10-06 19:44:55,504 :: DEBUG :: AUDIO_ID: 145_Callback: https://www.example.com
+Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NumberFormatException: null] with root cause
+2022-10-06 19:45:08,199 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 150
+2022-10-06 19:45:08,204 :: DEBUG :: AUDIO_ID: 150_Language: ja
+2022-10-06 19:45:08,204 :: DEBUG :: AUDIO_ID: 150_Diarization: 1
+2022-10-06 19:45:08,204 :: DEBUG :: AUDIO_ID: 150_Speaker Number: 2
+2022-10-06 19:45:08,204 :: DEBUG :: AUDIO_ID: 150_Wait: 0
+2022-10-06 19:45:08,204 :: DEBUG :: AUDIO_ID: 150_Callback: https://www.example.com
+2022-10-06 19:45:10,980 :: DEBUG :: T1_ ============ START 1 audio_id: 150 ============
+2022-10-06 19:45:10,995 :: DEBUG :: T1_ ????: Thu Oct 06 19:45:10 2022
+2022-10-06 19:45:11,015 :: DEBUG :: T1_ ???????: 366.4 KiB
+2022-10-06 19:45:11,019 :: DEBUG :: T1_ MEM###Before GCP Call: 75,915 kB
+2022-10-06 19:45:21,781 :: DEBUG :: T1_ GCP Completed at Thu Oct 06 19:45:21 2022
+2022-10-06 19:45:21,781 :: DEBUG :: T1_ MEM###After GCP Call: 26,410 kB
+2022-10-06 19:45:24,797 :: DEBUG :: T1_ ????: Thu Oct 06 19:45:24 2022
+2022-10-06 19:45:24,797 :: DEBUG :: T1_ ????: 00:00:10
+2022-10-06 19:45:24,797 :: DEBUG :: T1_ AUDIO_ID: 150_[{stop=4.0, speaker=1, start=0.0, text=?????????????????}, {stop=7.2, speaker=2, start=4.0, text=??????????????????}]
+2022-10-06 19:45:24,797 :: DEBUG :: T1_ AUDIO_ID: 150_WEBHOOK_RETURN_STATUS: true
+2022-10-06 19:45:24,797 :: DEBUG :: T1_ ============ END 1 audio_id: 150 ============

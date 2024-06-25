@@ -1,0 +1,19 @@
+2022-10-06 20:31:13,431 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 55
+2022-10-06 20:31:13,444 :: DEBUG :: AUDIO_ID: 55_Language: ja
+2022-10-06 20:31:13,455 :: DEBUG :: AUDIO_ID: 55_Diarization: 1
+2022-10-06 20:31:13,455 :: DEBUG :: AUDIO_ID: 55_Speaker Number: 2
+2022-10-06 20:31:13,455 :: DEBUG :: AUDIO_ID: 55_Wait: 0
+2022-10-06 20:31:13,456 :: DEBUG :: AUDIO_ID: 55_Callback: https://www.example.com
+2022-10-06 20:31:13,456 :: DEBUG :: AUDIO_ID: 55_INITIAL_Return Code: : 200
+2022-10-06 20:31:13,676 :: DEBUG :: AUDIO_ID: 55_ノイズキャンセリング完了
+2022-10-06 20:31:18,151 :: DEBUG :: T1_ ============ START 1 audio_id: 55 ============
+2022-10-06 20:31:18,165 :: DEBUG :: T1_ 開始時間: Thu Oct 06 20:31:18 2022
+2022-10-06 20:31:18,186 :: DEBUG :: T1_ ファイルサイズ: 366.4 KiB
+2022-10-06 20:31:18,187 :: DEBUG :: T1_ MEM###Before GCP Call: 38,489 kB
+2022-10-06 20:31:28,902 :: DEBUG :: T1_ GCP Completed at Thu Oct 06 20:31:28 2022
+2022-10-06 20:31:28,904 :: DEBUG :: T1_ MEM###After GCP Call: 108,751 kB
+2022-10-06 20:31:33,680 :: DEBUG :: T1_ 終了時間: Thu Oct 06 20:31:33 2022
+2022-10-06 20:31:33,681 :: DEBUG :: T1_ 処理時間: 00:00:10
+2022-10-06 20:31:33,681 :: DEBUG :: T1_ AUDIO_ID: 55_[{stop=4.0, speaker=1, start=0.0, text=また当時のように五大明王と呼ばれる}, {stop=7.2, speaker=2, start=4.0, text=ような明王の中央に配されることも多い}]
+2022-10-06 20:31:33,682 :: DEBUG :: T1_ AUDIO_ID: 55_WEBHOOK_RETURN_STATUS: true
+2022-10-06 20:31:33,682 :: DEBUG :: T1_ ============ END 1 audio_id: 55 ============

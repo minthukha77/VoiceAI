@@ -1,0 +1,640 @@
+new log file D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-12 12:41:30,664 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 6
+2022-10-12 12:41:30,680 :: DEBUG :: AUDIO_ID: 6_Language: ja
+2022-10-12 12:41:30,695 :: DEBUG :: AUDIO_ID: 6_Diarization: 0
+2022-10-12 12:41:30,695 :: DEBUG :: AUDIO_ID: 6_Speaker Number: 1
+2022-10-12 12:41:30,695 :: DEBUG :: AUDIO_ID: 6_Wait: 0
+2022-10-12 12:41:30,696 :: DEBUG :: AUDIO_ID: 6_Callback: https://www.example.com
+2022-10-12 12:41:30,696 :: DEBUG :: AUDIO_ID: 6_INITIAL_Return Code: : 200
+2022-10-12 12:41:30,991 :: DEBUG :: AUDIO_ID: 6_ノイズキャンセリング完了
+new log file D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-12 12:42:46,576 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 7
+2022-10-12 12:42:46,594 :: DEBUG :: AUDIO_ID: 7_Language: ja
+2022-10-12 12:42:46,609 :: DEBUG :: AUDIO_ID: 7_Diarization: 0
+2022-10-12 12:42:46,609 :: DEBUG :: AUDIO_ID: 7_Speaker Number: 1
+2022-10-12 12:42:46,609 :: DEBUG :: AUDIO_ID: 7_Wait: 0
+2022-10-12 12:42:46,609 :: DEBUG :: AUDIO_ID: 7_Callback: https://www.example.com
+2022-10-12 12:42:46,610 :: DEBUG :: AUDIO_ID: 7_INITIAL_Return Code: : 200
+2022-10-12 12:42:46,882 :: DEBUG :: AUDIO_ID: 7_ノイズキャンセリング完了
+new log file D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-12 12:57:44,478 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 7
+2022-10-12 12:57:44,489 :: DEBUG :: AUDIO_ID: 7_Language: ja
+2022-10-12 12:57:44,503 :: DEBUG :: AUDIO_ID: 7_Diarization: 0
+2022-10-12 12:57:44,503 :: DEBUG :: AUDIO_ID: 7_Speaker Number: 1
+2022-10-12 12:57:44,504 :: DEBUG :: AUDIO_ID: 7_Wait: 0
+2022-10-12 12:57:44,504 :: DEBUG :: AUDIO_ID: 7_Callback: https://www.example.com
+2022-10-12 12:57:44,504 :: DEBUG :: AUDIO_ID: 7_INITIAL_Return Code: : 200
+new log file D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-12 12:58:13,290 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 8
+2022-10-12 12:58:13,302 :: DEBUG :: AUDIO_ID: 8_Language: ja
+2022-10-12 12:58:13,315 :: DEBUG :: AUDIO_ID: 8_Diarization: 0
+2022-10-12 12:58:13,315 :: DEBUG :: AUDIO_ID: 8_Speaker Number: 1
+2022-10-12 12:58:13,316 :: DEBUG :: AUDIO_ID: 8_Wait: 0
+2022-10-12 12:58:13,316 :: DEBUG :: AUDIO_ID: 8_Callback: https://www.example.com
+2022-10-12 12:58:13,316 :: DEBUG :: AUDIO_ID: 8_INITIAL_Return Code: : 200
+2022-10-12 12:58:13,834 :: DEBUG :: AUDIO_ID: 8_ノイズキャンセリング完了
+new log file D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-12 12:59:35,898 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 9
+2022-10-12 12:59:35,909 :: DEBUG :: AUDIO_ID: 9_Language: ja
+2022-10-12 12:59:35,919 :: DEBUG :: AUDIO_ID: 9_Diarization: 0
+2022-10-12 12:59:35,919 :: DEBUG :: AUDIO_ID: 9_Speaker Number: 1
+2022-10-12 12:59:35,919 :: DEBUG :: AUDIO_ID: 9_Wait: 0
+2022-10-12 12:59:35,919 :: DEBUG :: AUDIO_ID: 9_Callback: https://www.example.com
+2022-10-12 12:59:35,920 :: DEBUG :: AUDIO_ID: 9_INITIAL_Return Code: : 200
+2022-10-12 12:59:36,166 :: DEBUG :: AUDIO_ID: 9_ノイズキャンセリング完了
+new log file D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-12 13:01:56,017 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 10
+2022-10-12 13:01:56,030 :: DEBUG :: AUDIO_ID: 10_Language: ja
+2022-10-12 13:01:56,043 :: DEBUG :: AUDIO_ID: 10_Diarization: 0
+2022-10-12 13:01:56,043 :: DEBUG :: AUDIO_ID: 10_Speaker Number: 1
+2022-10-12 13:01:56,043 :: DEBUG :: AUDIO_ID: 10_Wait: 0
+2022-10-12 13:01:56,043 :: DEBUG :: AUDIO_ID: 10_Callback: https://www.example.com
+2022-10-12 13:01:56,044 :: DEBUG :: AUDIO_ID: 10_INITIAL_Return Code: : 200
+2022-10-12 13:01:56,263 :: DEBUG :: AUDIO_ID: 10_ノイズキャンセリング完了
+new log file D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-12 13:03:53,260 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 11
+2022-10-12 13:03:53,272 :: DEBUG :: AUDIO_ID: 11_Language: ja
+2022-10-12 13:03:53,285 :: DEBUG :: AUDIO_ID: 11_Diarization: 0
+2022-10-12 13:03:53,285 :: DEBUG :: AUDIO_ID: 11_Speaker Number: 1
+2022-10-12 13:03:53,285 :: DEBUG :: AUDIO_ID: 11_Wait: 0
+2022-10-12 13:03:53,286 :: DEBUG :: AUDIO_ID: 11_Callback: https://www.example.com
+2022-10-12 13:03:53,286 :: DEBUG :: AUDIO_ID: 11_INITIAL_Return Code: : 200
+new log file D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-12 13:06:19,356 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 110
+2022-10-12 13:06:19,366 :: DEBUG :: AUDIO_ID: 110_Language: ja
+2022-10-12 13:06:19,377 :: DEBUG :: AUDIO_ID: 110_Diarization: 0
+2022-10-12 13:06:19,378 :: DEBUG :: AUDIO_ID: 110_Speaker Number: 1
+2022-10-12 13:06:19,378 :: DEBUG :: AUDIO_ID: 110_Wait: 0
+2022-10-12 13:06:19,378 :: DEBUG :: AUDIO_ID: 110_Callback: https://www.example.com
+2022-10-12 13:06:19,379 :: DEBUG :: AUDIO_ID: 110_INITIAL_Return Code: : 200
+2022-10-12 13:06:19,648 :: DEBUG :: AUDIO_ID: 110_ノイズキャンセリング完了
+--------------------------
+PREVIOUS LOG FILES
+--------------------------
+new log file D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-12 13:12:53,359 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 100
+2022-10-12 13:12:53,370 :: DEBUG :: AUDIO_ID: 100_Language: ja
+2022-10-12 13:12:53,381 :: DEBUG :: AUDIO_ID: 100_Diarization: 0
+2022-10-12 13:12:53,381 :: DEBUG :: AUDIO_ID: 100_Speaker Number: 1
+2022-10-12 13:12:53,381 :: DEBUG :: AUDIO_ID: 100_Wait: 0
+2022-10-12 13:12:53,381 :: DEBUG :: AUDIO_ID: 100_Callback: https://www.example.com
+2022-10-12 13:12:53,382 :: DEBUG :: AUDIO_ID: 100_INITIAL_Return Code: : 200
+2022-10-12 13:12:53,622 :: DEBUG :: AUDIO_ID: 100_ノイズキャンセリング完了
+new log file D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-12 13:19:35,132 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 111
+2022-10-12 13:19:35,146 :: DEBUG :: AUDIO_ID: 111_Language: ja
+2022-10-12 13:19:35,157 :: DEBUG :: AUDIO_ID: 111_Diarization: 0
+2022-10-12 13:19:35,157 :: DEBUG :: AUDIO_ID: 111_Speaker Number: 1
+2022-10-12 13:19:35,157 :: DEBUG :: AUDIO_ID: 111_Wait: 0
+2022-10-12 13:19:35,158 :: DEBUG :: AUDIO_ID: 111_Callback: https://www.example.com
+2022-10-12 13:19:35,158 :: DEBUG :: AUDIO_ID: 111_INITIAL_Return Code: : 200
+2022-10-12 13:19:35,450 :: DEBUG :: AUDIO_ID: 111_ノイズキャンセリング完了
+2022-10-12 13:19:38,123 :: DEBUG :: T1_ ============ START 1 audio_id: 655 ============
+2022-10-12 13:19:38,134 :: DEBUG :: T1_ 開始時間: Wed Oct 12 13:19:38 2022
+2022-10-12 13:19:38,178 :: DEBUG :: T1_ ファイルサイズ: 366.4 KiB
+2022-10-12 13:19:38,181 :: DEBUG :: T1_ MEM###Before GCP Call: 22,234 kB
+2022-10-12 13:19:58,987 :: DEBUG :: T1_ GCP Completed at Wed Oct 12 13:19:58 2022
+2022-10-12 13:19:58,990 :: DEBUG :: T1_ MEM###After GCP Call: 39,446 kB
+2022-10-12 13:20:01,593 :: DEBUG :: T1_ 終了時間: Wed Oct 12 13:20:01 2022
+2022-10-12 13:20:01,594 :: DEBUG :: T1_ 処理時間: 00:00:20
+2022-10-12 13:20:01,595 :: DEBUG :: T1_ AUDIO_ID: 655_[]
+2022-10-12 13:20:01,595 :: DEBUG :: T1_ AUDIO_ID: 655_WEBHOOK_RETURN_STATUS: true
+2022-10-12 13:20:01,595 :: DEBUG :: T1_ ============ END 1 audio_id: 655 ============
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-17 22:07:06,908 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 23
+2022-10-17 22:07:06,918 :: DEBUG :: AUDIO_ID: 23_Language: ja
+2022-10-17 22:07:06,926 :: DEBUG :: AUDIO_ID: 23_Diarization: 1
+2022-10-17 22:07:06,929 :: DEBUG :: AUDIO_ID: 23_Speaker Number: unspecified
+2022-10-17 22:07:06,930 :: DEBUG :: AUDIO_ID: 23_Wait: 0
+2022-10-17 22:07:06,930 :: DEBUG :: AUDIO_ID: 23_Callback: https://www.example.com
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-17 22:07:57,269 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 24
+2022-10-17 22:07:57,304 :: DEBUG :: AUDIO_ID: 24_Language: ja
+2022-10-17 22:07:57,320 :: DEBUG :: AUDIO_ID: 24_Diarization: 1
+2022-10-17 22:07:57,321 :: DEBUG :: AUDIO_ID: 24_Speaker Number: unspecified
+2022-10-17 22:07:57,321 :: DEBUG :: AUDIO_ID: 24_Wait: 0
+2022-10-17 22:07:57,323 :: DEBUG :: AUDIO_ID: 24_Callback: https://www.example.com
+2022-10-17 22:07:58,234 :: DEBUG :: AUDIO_ID: 24_ノイズキャンセリング完了
+2022-10-17 22:08:07,708 :: DEBUG :: AUDIO_ID: 24_INITIAL_Return Code: : 200
+2022-10-17 22:08:09,266 :: DEBUG :: T1_ ============ START 1 audio_id: 24 ============
+2022-10-17 22:08:09,287 :: DEBUG :: T1_ 開始時間: Mon Oct 17 22:08:09 2022
+2022-10-17 22:08:09,351 :: DEBUG :: T1_ ファイルサイズ: 5.1 MiB
+2022-10-17 22:08:09,354 :: DEBUG :: T1_ EXCEPTION: RETRYING
+2022-10-17 22:08:09,355 :: DEBUG :: T1_ ============ START 1 audio_id: 24 ============
+2022-10-17 22:08:09,355 :: DEBUG :: T1_ 開始時間: Mon Oct 17 22:08:09 2022
+2022-10-17 22:08:09,356 :: DEBUG :: T1_ ファイルサイズ: 5.1 MiB
+2022-10-17 22:08:09,358 :: DEBUG :: T1_ EXCEPTION: For input string: "unspecified"
+2022-10-17 22:08:09,359 :: DEBUG :: T1_ EXCEPTION: GCP_FAILED
+2022-10-17 22:09:08,842 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 24
+2022-10-17 22:09:08,847 :: DEBUG :: AUDIO_ID: 24_Language: ja
+2022-10-17 22:09:08,848 :: DEBUG :: AUDIO_ID: 24_Diarization: 1
+2022-10-17 22:09:08,849 :: DEBUG :: AUDIO_ID: 24_Speaker Number: 2
+2022-10-17 22:09:08,850 :: DEBUG :: AUDIO_ID: 24_Wait: 0
+2022-10-17 22:09:08,851 :: DEBUG :: AUDIO_ID: 24_Callback: https://www.example.com
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-17 22:09:35,393 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 25
+2022-10-17 22:09:35,401 :: DEBUG :: AUDIO_ID: 25_Language: ja
+2022-10-17 22:09:35,452 :: DEBUG :: AUDIO_ID: 25_Diarization: 1
+2022-10-17 22:09:35,454 :: DEBUG :: AUDIO_ID: 25_Speaker Number: 2
+2022-10-17 22:09:35,455 :: DEBUG :: AUDIO_ID: 25_Wait: 0
+2022-10-17 22:09:35,456 :: DEBUG :: AUDIO_ID: 25_Callback: https://www.example.com
+2022-10-17 22:09:36,876 :: DEBUG :: AUDIO_ID: 25_ノイズキャンセリング完了
+2022-10-17 22:10:16,746 :: DEBUG :: AUDIO_ID: 25_INITIAL_Return Code: : 200
+2022-10-17 22:10:17,579 :: DEBUG :: T1_ ============ START 1 audio_id: 25 ============
+2022-10-17 22:10:17,592 :: DEBUG :: T1_ 開始時間: Mon Oct 17 22:10:17 2022
+2022-10-17 22:10:17,624 :: DEBUG :: T1_ ファイルサイズ: 5.1 MiB
+2022-10-17 22:10:17,626 :: DEBUG :: T1_ MEM###Before GCP Call: 54,705 kB
+2022-10-17 22:11:21,171 :: DEBUG :: T1_ GCP Completed at Mon Oct 17 22:11:21 2022
+2022-10-17 22:11:21,177 :: DEBUG :: T1_ MEM###After GCP Call: 27,738 kB
+2022-10-17 22:11:25,939 :: DEBUG :: T1_ EXCEPTION: RETRYING
+2022-10-17 22:11:25,940 :: DEBUG :: T1_ ============ START 1 audio_id: 25 ============
+2022-10-17 22:11:25,941 :: DEBUG :: T1_ 開始時間: Mon Oct 17 22:11:25 2022
+2022-10-17 22:11:25,942 :: DEBUG :: T1_ ファイルサイズ: 5.1 MiB
+2022-10-17 22:11:25,942 :: DEBUG :: T1_ MEM###Before GCP Call: 29,239 kB
+2022-10-17 22:11:56,010 :: DEBUG :: T1_ GCP Completed at Mon Oct 17 22:11:56 2022
+2022-10-17 22:11:56,012 :: DEBUG :: T1_ MEM###After GCP Call: 32,418 kB
+2022-10-17 22:11:56,587 :: DEBUG :: T1_ EXCEPTION: The object was not found on this server. (not_found)
+2022-10-17 22:11:56,588 :: DEBUG :: T1_ EXCEPTION: GCP_FAILED
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-17 22:24:19,257 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 25
+2022-10-17 22:24:19,266 :: DEBUG :: AUDIO_ID: 25_Language: ja
+2022-10-17 22:24:19,272 :: DEBUG :: AUDIO_ID: 25_Diarization: 1
+2022-10-17 22:24:19,273 :: DEBUG :: AUDIO_ID: 25_Speaker Number: 2
+2022-10-17 22:24:19,273 :: DEBUG :: AUDIO_ID: 25_Wait: 0
+2022-10-17 22:24:19,274 :: DEBUG :: AUDIO_ID: 25_Callback: https://www.example.com
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-17 22:25:18,483 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 26
+2022-10-17 22:25:18,501 :: DEBUG :: AUDIO_ID: 26_Language: ja
+2022-10-17 22:25:18,512 :: DEBUG :: AUDIO_ID: 26_Diarization: 1
+2022-10-17 22:25:18,513 :: DEBUG :: AUDIO_ID: 26_Speaker Number: 2
+2022-10-17 22:25:18,513 :: DEBUG :: AUDIO_ID: 26_Wait: 0
+2022-10-17 22:25:18,514 :: DEBUG :: AUDIO_ID: 26_Callback: https://www.example.com
+2022-10-17 22:25:19,779 :: DEBUG :: AUDIO_ID: 26_ノイズキャンセリング完了
+2022-10-17 22:25:48,136 :: DEBUG :: AUDIO_ID: 26_INITIAL_Return Code: : 200
+2022-10-17 22:25:48,592 :: DEBUG :: T1_ ============ START 1 audio_id: 26 ============
+2022-10-17 22:25:48,604 :: DEBUG :: T1_ 開始時間: Mon Oct 17 22:25:48 2022
+2022-10-17 22:25:48,627 :: DEBUG :: T1_ ファイルサイズ: 5.1 MiB
+2022-10-17 22:25:48,628 :: DEBUG :: T1_ MEM###Before GCP Call: 19,089 kB
+2022-10-17 22:26:31,557 :: DEBUG :: T1_ GCP Completed at Mon Oct 17 22:26:31 2022
+2022-10-17 22:26:31,558 :: DEBUG :: T1_ MEM###After GCP Call: 33,522 kB
+2022-10-17 22:26:36,114 :: DEBUG :: T1_ 終了時間: Mon Oct 17 22:26:36 2022
+2022-10-17 22:26:36,115 :: DEBUG :: T1_ 処理時間: 00:00:42
+2022-10-17 22:26:36,117 :: DEBUG :: T1_ AUDIO_ID: 26_[{stop=8.4, speaker=2, start=0.0, text=僕はいつもとんがり屋根の上から空と海を見て見ているだけで}, {stop=19.8, speaker=1, start=8.4, text=ないから本当は誰よりも遠くへ本当は誰よりも自由に飛び回りたいでも}, {stop=23.2, speaker=2, start=19.8, text=僕は風見鶏取れないと言う}, {stop=31.6, speaker=1, start=24.7, text=ある日スズメのおばさんがやってきてできればその羽を動かしました}, {stop=38.5, speaker=2, start=31.6, text=一生懸命やって食べるのよ}, {stop=50.1, speaker=1, start=38.5, text=僕は動かしたことがなかったそうかこの紙を動かせば出るんだこれで僕も食べるぞ}, {stop=59.5, speaker=2, start=50.1, text=んだけどどんなに羽を動かそうとしてもこのハゲは動かないメールしても祈っても}]
+2022-10-17 22:26:36,118 :: DEBUG :: T1_ AUDIO_ID: 26_WEBHOOK_RETURN_STATUS: true
+2022-10-17 22:26:36,118 :: DEBUG :: T1_ ============ END 1 audio_id: 26 ============
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-17 22:51:09,773 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 119
+2022-10-17 22:51:09,779 :: DEBUG :: AUDIO_ID: 119_Language: ja
+2022-10-17 22:51:09,790 :: DEBUG :: AUDIO_ID: 119_Diarization: 1
+2022-10-17 22:51:09,791 :: DEBUG :: AUDIO_ID: 119_Speaker Number: 2
+2022-10-17 22:51:09,791 :: DEBUG :: AUDIO_ID: 119_Wait: 0
+2022-10-17 22:51:09,793 :: DEBUG :: AUDIO_ID: 119_Callback: https://www.example.com
+2022-10-17 22:51:10,622 :: DEBUG :: AUDIO_ID: 119_ノイズキャンセリング完了
+2022-10-17 22:51:16,654 :: DEBUG :: AUDIO_ID: 119_INITIAL_Return Code: : 200
+2022-10-17 22:51:17,113 :: DEBUG :: T1_ ============ START 1 audio_id: 119 ============
+2022-10-17 22:51:17,123 :: DEBUG :: T1_ 開始時間: Mon Oct 17 22:51:17 2022
+2022-10-17 22:51:17,153 :: DEBUG :: T1_ ファイルサイズ: 5.1 MiB
+2022-10-17 22:51:17,155 :: DEBUG :: T1_ MEM###Before GCP Call: 22,239 kB
+2022-10-17 22:51:50,413 :: DEBUG :: T1_ GCP Completed at Mon Oct 17 22:51:50 2022
+2022-10-17 22:51:50,414 :: DEBUG :: T1_ MEM###After GCP Call: 34,512 kB
+2022-10-17 22:51:55,035 :: DEBUG :: T1_ 終了時間: Mon Oct 17 22:51:55 2022
+2022-10-17 22:51:55,037 :: DEBUG :: T1_ 処理時間: 00:00:33
+2022-10-17 22:51:55,038 :: DEBUG :: T1_ AUDIO_ID: 119_[{stop=8.3, speaker=1, start=1.6, text=▁僕▁は▁いつ▁も▁とんがり▁屋根▁の▁上▁から▁空▁と▁海▁を▁見▁て▁いる▁見▁て▁いる▁だけ}, {stop=18.3, speaker=2, start=10.0, text=▁僕▁は▁みんな▁みたい▁に▁飛べ▁ない▁から▁本当▁は▁誰▁より▁も▁遠く▁へ▁本当▁は▁誰▁より▁も▁自由▁に▁飛び回り▁たい}, {stop=21.6, speaker=1, start=19.5, text=▁で▁も▁僕▁は▁鏡鳥}, {stop=32.0, speaker=2, start=21.6, text=▁飛べ▁ない▁と▁いう▁雀▁の▁おば▁さん▁が▁やっ▁て▁き▁て▁そんな▁に▁飛び▁たけれ▁ば▁その▁羽▁を▁動かし▁なさい▁と▁言っ▁た}, {stop=36.7, speaker=1, start=33.1, text=▁一生▁懸命▁動かし▁て▁何▁度▁も▁練習▁し▁て}, {stop=50.1, speaker=2, start=36.7, text=▁やっと▁飛べる▁の▁よ▁と▁僕▁は▁羽▁を▁動かし▁た▁こと▁が▁なかっ▁た▁そう▁か▁この▁羽▁を▁動かせ▁ば▁飛べる▁ん▁だ▁これ▁で▁僕▁も▁飛べる▁と}, {stop=59.6, speaker=1, start=51.2, text=▁だ▁けど▁どんな▁に▁羽▁を▁動かそう▁と▁し▁て▁も▁この▁羽▁は▁動か▁ない▁命令▁し▁て▁も▁祈っ▁て▁も}]
+2022-10-17 22:51:55,040 :: DEBUG :: T1_ AUDIO_ID: 119_WEBHOOK_RETURN_STATUS: true
+2022-10-17 22:51:55,041 :: DEBUG :: T1_ ============ END 1 audio_id: 119 ============
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-17 23:06:49,887 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 119
+2022-10-17 23:06:49,893 :: DEBUG :: AUDIO_ID: 119_Language: ja
+2022-10-17 23:06:49,902 :: DEBUG :: AUDIO_ID: 119_Diarization: 1
+2022-10-17 23:06:49,903 :: DEBUG :: AUDIO_ID: 119_Speaker Number: 2
+2022-10-17 23:06:49,904 :: DEBUG :: AUDIO_ID: 119_Wait: 0
+2022-10-17 23:06:49,904 :: DEBUG :: AUDIO_ID: 119_Callback: https://www.example.com
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-17 23:07:11,889 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 120
+2022-10-17 23:07:11,898 :: DEBUG :: AUDIO_ID: 120_Language: ja
+2022-10-17 23:07:11,914 :: DEBUG :: AUDIO_ID: 120_Diarization: 1
+2022-10-17 23:07:11,915 :: DEBUG :: AUDIO_ID: 120_Speaker Number: 2
+2022-10-17 23:07:11,916 :: DEBUG :: AUDIO_ID: 120_Wait: 0
+2022-10-17 23:07:11,916 :: DEBUG :: AUDIO_ID: 120_Callback: https://www.example.com
+2022-10-17 23:07:12,884 :: DEBUG :: AUDIO_ID: 120_ノイズキャンセリング完了
+2022-10-17 23:08:17,601 :: DEBUG :: AUDIO_ID: 120_INITIAL_Return Code: : 200
+2022-10-17 23:08:18,119 :: DEBUG :: T1_ ============ START 1 audio_id: 120 ============
+2022-10-17 23:08:18,130 :: DEBUG :: T1_ 開始時間: Mon Oct 17 23:08:18 2022
+2022-10-17 23:08:18,159 :: DEBUG :: T1_ ファイルサイズ: 5.1 MiB
+2022-10-17 23:08:18,160 :: DEBUG :: T1_ MEM###Before GCP Call: 36,788 kB
+2022-10-17 23:09:40,922 :: DEBUG :: T1_ GCP Completed at Mon Oct 17 23:09:40 2022
+2022-10-17 23:09:40,924 :: DEBUG :: T1_ MEM###After GCP Call: 53,055 kB
+2022-10-17 23:09:47,159 :: DEBUG :: T1_ 終了時間: Mon Oct 17 23:09:47 2022
+2022-10-17 23:09:47,161 :: DEBUG :: T1_ 処理時間: 00:-1:22
+2022-10-17 23:09:47,162 :: DEBUG :: T1_ AUDIO_ID: 120_[{stop=8.3, speaker=1, start=1.6, text=▁僕▁は▁いつ▁も▁とんがり▁屋根▁の▁上▁から▁空▁と▁海▁を▁見▁て▁いる▁見▁て▁いる▁だけ}, {stop=18.3, speaker=2, start=10.0, text=▁僕▁は▁みんな▁みたい▁に▁飛べ▁ない▁から▁本当▁は▁誰▁より▁も▁遠く▁へ▁本当▁は▁誰▁より▁も▁自由▁に▁飛び回り▁たい}, {stop=21.6, speaker=1, start=19.5, text=▁で▁も▁僕▁は▁鏡鳥}, {stop=32.0, speaker=2, start=21.6, text=▁飛べ▁ない▁と▁いう▁雀▁の▁おば▁さん▁が▁やっ▁て▁き▁て▁そんな▁に▁飛び▁たけれ▁ば▁その▁羽▁を▁動かし▁なさい▁と▁言っ▁た}, {stop=36.7, speaker=1, start=33.1, text=▁一生▁懸命▁動かし▁て▁何▁度▁も▁練習▁し▁て}, {stop=50.1, speaker=2, start=36.7, text=▁やっと▁飛べる▁の▁よ▁と▁僕▁は▁羽▁を▁動かし▁た▁こと▁が▁なかっ▁た▁そう▁か▁この▁羽▁を▁動かせ▁ば▁飛べる▁ん▁だ▁これ▁で▁僕▁も▁飛べる▁と}, {stop=59.6, speaker=1, start=51.2, text=▁だ▁けど▁どんな▁に▁羽▁を▁動かそう▁と▁し▁て▁も▁この▁羽▁は▁動か▁ない▁命令▁し▁て▁も▁祈っ▁て▁も}]
+2022-10-17 23:09:47,164 :: DEBUG :: T1_ AUDIO_ID: 120_WEBHOOK_RETURN_STATUS: true
+2022-10-17 23:09:47,165 :: DEBUG :: T1_ ============ END 1 audio_id: 120 ============
+<<<<<<< HEAD
+log file: D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+log file: D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-24 12:21:08,664 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: abc
+2022-10-24 12:21:08,677 :: DEBUG :: AUDIO_ID: abc_Language: ja
+2022-10-24 12:21:08,690 :: DEBUG :: AUDIO_ID: abc_Diarization: 0
+2022-10-24 12:21:08,690 :: DEBUG :: AUDIO_ID: abc_Speaker Number: 1
+2022-10-24 12:21:08,690 :: DEBUG :: AUDIO_ID: abc_Wait: 0
+2022-10-24 12:21:08,691 :: DEBUG :: AUDIO_ID: abc_Callback: https://www.example.com
+log file: D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-24 12:28:59,517 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: abc
+2022-10-24 12:28:59,530 :: DEBUG :: AUDIO_ID: abc_Language: ja
+2022-10-24 12:28:59,539 :: DEBUG :: AUDIO_ID: abc_Diarization: 0
+2022-10-24 12:28:59,539 :: DEBUG :: AUDIO_ID: abc_Speaker Number: 1
+2022-10-24 12:28:59,539 :: DEBUG :: AUDIO_ID: abc_Wait: 0
+2022-10-24 12:28:59,540 :: DEBUG :: AUDIO_ID: abc_Callback: https://www.example.com
+2022-10-24 12:29:23,404 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: abc
+2022-10-24 12:29:23,405 :: DEBUG :: AUDIO_ID: abc_Language: ja
+2022-10-24 12:29:23,405 :: DEBUG :: AUDIO_ID: abc_Diarization: 0
+2022-10-24 12:29:23,405 :: DEBUG :: AUDIO_ID: abc_Speaker Number: 1
+2022-10-24 12:29:23,405 :: DEBUG :: AUDIO_ID: abc_Wait: 0
+2022-10-24 12:29:23,406 :: DEBUG :: AUDIO_ID: abc_Callback: https://www.example.com
+log file: D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-24 12:33:19,191 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: abc
+2022-10-24 12:33:19,204 :: DEBUG :: AUDIO_ID: abc_Language: ja
+2022-10-24 12:33:19,217 :: DEBUG :: AUDIO_ID: abc_Diarization: 0
+2022-10-24 12:33:19,218 :: DEBUG :: AUDIO_ID: abc_Speaker Number: 1
+2022-10-24 12:33:19,218 :: DEBUG :: AUDIO_ID: abc_Wait: 0
+2022-10-24 12:33:19,219 :: DEBUG :: AUDIO_ID: abc_Callback: https://www.example.com
+log file: D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-24 12:35:17,615 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: abc
+2022-10-24 12:35:17,625 :: DEBUG :: AUDIO_ID: abc_Language: ja
+2022-10-24 12:35:17,636 :: DEBUG :: AUDIO_ID: abc_Diarization: 0
+2022-10-24 12:35:17,637 :: DEBUG :: AUDIO_ID: abc_Speaker Number: 1
+2022-10-24 12:35:17,637 :: DEBUG :: AUDIO_ID: abc_Wait: 0
+2022-10-24 12:35:17,637 :: DEBUG :: AUDIO_ID: abc_Callback: https://www.example.com
+log file: D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-24 12:35:56,837 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: abc
+2022-10-24 12:35:56,851 :: DEBUG :: AUDIO_ID: abc_Language: ja
+2022-10-24 12:35:56,865 :: DEBUG :: AUDIO_ID: abc_Diarization: 0
+2022-10-24 12:35:56,866 :: DEBUG :: AUDIO_ID: abc_Speaker Number: 1
+2022-10-24 12:35:56,867 :: DEBUG :: AUDIO_ID: abc_Wait: 0
+2022-10-24 12:35:56,867 :: DEBUG :: AUDIO_ID: abc_Callback: https://www.example.com
+2022-10-24 12:36:17,184 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: abc
+2022-10-24 12:36:17,185 :: DEBUG :: AUDIO_ID: abc_Language: ja
+2022-10-24 12:36:17,185 :: DEBUG :: AUDIO_ID: abc_Diarization: 0
+2022-10-24 12:36:17,185 :: DEBUG :: AUDIO_ID: abc_Speaker Number: 1
+2022-10-24 12:36:17,185 :: DEBUG :: AUDIO_ID: abc_Wait: 0
+2022-10-24 12:36:17,185 :: DEBUG :: AUDIO_ID: abc_Callback: https://www.example.com
+log file: D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-24 12:37:49,999 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: abc
+2022-10-24 12:37:50,014 :: DEBUG :: AUDIO_ID: abc_Language: ja
+2022-10-24 12:37:50,031 :: DEBUG :: AUDIO_ID: abc_Diarization: 0
+2022-10-24 12:37:50,032 :: DEBUG :: AUDIO_ID: abc_Speaker Number: 1
+2022-10-24 12:37:50,032 :: DEBUG :: AUDIO_ID: abc_Wait: 0
+2022-10-24 12:37:50,032 :: DEBUG :: AUDIO_ID: abc_Callback: https://www.example.com
+2022-10-24 12:37:50,825 :: DEBUG :: AUDIO_ID: abc_ノイズキャンセリング完了
+2022-10-24 12:37:50,904 :: DEBUG :: AUDIO_ID: abc_無言音声削減完了
+2022-10-24 12:37:53,203 :: DEBUG :: AUDIO_ID: abc_INITIAL_Return Code: : 200
+2022-10-24 12:37:53,380 :: DEBUG :: T1_ ============ START 1 audio_id: abc ============
+2022-10-24 12:37:53,391 :: DEBUG :: T1_ 開始時間: Mon Oct 24 12:37:53 2022
+2022-10-24 12:37:53,407 :: DEBUG :: T1_ ファイルサイズ: 366.4 KiB
+2022-10-24 12:37:53,408 :: DEBUG :: T1_ MEM###Before GCP Call: 99,939 kB
+2022-10-24 12:38:14,120 :: DEBUG :: T1_ GCP Completed at Mon Oct 24 12:38:14 2022
+2022-10-24 12:38:14,121 :: DEBUG :: T1_ MEM###After GCP Call: 99,310 kB
+2022-10-24 12:38:18,272 :: DEBUG :: T1_ EXCEPTION: RETRYING
+2022-10-24 12:38:18,273 :: DEBUG :: T1_ ============ START 1 audio_id: abc ============
+2022-10-24 12:38:18,273 :: DEBUG :: T1_ 開始時間: Mon Oct 24 12:38:18 2022
+2022-10-24 12:38:18,273 :: DEBUG :: T1_ ファイルサイズ: 366.4 KiB
+2022-10-24 12:38:18,273 :: DEBUG :: T1_ MEM###Before GCP Call: 49,006 kB
+2022-10-24 12:38:28,291 :: DEBUG :: T1_ GCP Completed at Mon Oct 24 12:38:28 2022
+2022-10-24 12:38:28,293 :: DEBUG :: T1_ MEM###After GCP Call: 54,128 kB
+2022-10-24 12:38:29,342 :: DEBUG :: T1_ EXCEPTION: For input string: "abc"
+2022-10-24 12:38:29,343 :: DEBUG :: T1_ EXCEPTION: GCP_FAILED
+log file: D:\BlissStock\Voitra_dev\src\static\logs\default.txt
+2022-10-24 12:40:09,199 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 10023
+2022-10-24 12:40:09,210 :: DEBUG :: AUDIO_ID: 10023_Language: ja
+2022-10-24 12:40:09,225 :: DEBUG :: AUDIO_ID: 10023_Diarization: 0
+2022-10-24 12:40:09,225 :: DEBUG :: AUDIO_ID: 10023_Speaker Number: 1
+2022-10-24 12:40:09,226 :: DEBUG :: AUDIO_ID: 10023_Wait: 0
+2022-10-24 12:40:09,226 :: DEBUG :: AUDIO_ID: 10023_Callback: https://www.example.com
+2022-10-24 12:40:09,471 :: DEBUG :: AUDIO_ID: 10023_ノイズキャンセリング完了
+2022-10-24 12:40:09,538 :: DEBUG :: AUDIO_ID: 10023_無言音声削減完了
+2022-10-24 12:40:11,478 :: DEBUG :: AUDIO_ID: 10023_INITIAL_Return Code: : 200
+2022-10-24 12:40:11,715 :: DEBUG :: T1_ ============ START 1 audio_id: 10023 ============
+2022-10-24 12:40:11,727 :: DEBUG :: T1_ 開始時間: Mon Oct 24 12:40:11 2022
+2022-10-24 12:40:11,753 :: DEBUG :: T1_ ファイルサイズ: 366.4 KiB
+2022-10-24 12:40:11,754 :: DEBUG :: T1_ MEM###Before GCP Call: 20,477 kB
+2022-10-24 12:40:22,387 :: DEBUG :: T1_ GCP Completed at Mon Oct 24 12:40:22 2022
+2022-10-24 12:40:22,393 :: DEBUG :: T1_ MEM###After GCP Call: 105,089 kB
+2022-10-24 12:40:25,469 :: DEBUG :: T1_ 終了時間: Mon Oct 24 12:40:25 2022
+2022-10-24 12:40:25,471 :: DEBUG :: T1_ 処理時間: 00:00:10
+2022-10-24 12:40:25,474 :: DEBUG :: T1_ AUDIO_ID: 10023_[]
+2022-10-24 12:40:25,476 :: DEBUG :: T1_ AUDIO_ID: 10023_WEBHOOK_RETURN_STATUS: true
+2022-10-24 12:40:25,478 :: DEBUG :: T1_ ============ END 1 audio_id: 10023 ============
+=======
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-21 18:31:02,952 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 234
+2022-10-21 18:31:02,957 :: DEBUG :: AUDIO_ID: 234_Language: ja
+2022-10-21 18:31:02,966 :: DEBUG :: AUDIO_ID: 234_Diarization: 1
+2022-10-21 18:31:02,967 :: DEBUG :: AUDIO_ID: 234_Speaker Number: 2
+2022-10-21 18:31:02,967 :: DEBUG :: AUDIO_ID: 234_Wait: 0
+2022-10-21 18:31:02,968 :: DEBUG :: AUDIO_ID: 234_Callback: https://www.example.com
+2022-10-21 18:31:03,727 :: DEBUG :: AUDIO_ID: 234_ノイズキャンセリング完了
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-21 18:32:38,317 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 234
+2022-10-21 18:32:38,325 :: DEBUG :: AUDIO_ID: 234_Language: ja
+2022-10-21 18:32:38,336 :: DEBUG :: AUDIO_ID: 234_Diarization: 1
+2022-10-21 18:32:38,337 :: DEBUG :: AUDIO_ID: 234_Speaker Number: 2
+2022-10-21 18:32:38,337 :: DEBUG :: AUDIO_ID: 234_Wait: 0
+2022-10-21 18:32:38,338 :: DEBUG :: AUDIO_ID: 234_Callback: https://www.example.com
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-21 18:45:47,176 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 234
+2022-10-21 18:45:47,181 :: DEBUG :: AUDIO_ID: 234_Language: ja
+2022-10-21 18:45:47,192 :: DEBUG :: AUDIO_ID: 234_Diarization: 1
+2022-10-21 18:45:47,193 :: DEBUG :: AUDIO_ID: 234_Speaker Number: 2
+2022-10-21 18:45:47,193 :: DEBUG :: AUDIO_ID: 234_Wait: 0
+2022-10-21 18:45:47,193 :: DEBUG :: AUDIO_ID: 234_Callback: https://www.example.com
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-21 18:46:49,521 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 235
+2022-10-21 18:46:49,529 :: DEBUG :: AUDIO_ID: 235_Language: ja
+2022-10-21 18:46:49,545 :: DEBUG :: AUDIO_ID: 235_Diarization: 1
+2022-10-21 18:46:49,554 :: DEBUG :: AUDIO_ID: 235_Speaker Number: 2
+2022-10-21 18:46:49,554 :: DEBUG :: AUDIO_ID: 235_Wait: 0
+2022-10-21 18:46:49,555 :: DEBUG :: AUDIO_ID: 235_Callback: https://www.example.com
+2022-10-21 18:46:50,106 :: DEBUG :: AUDIO_ID: 235_ノイズキャンセリング完了
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-21 18:48:29,428 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 237
+2022-10-21 18:48:29,433 :: DEBUG :: AUDIO_ID: 237_Language: ja
+2022-10-21 18:48:29,442 :: DEBUG :: AUDIO_ID: 237_Diarization: 1
+2022-10-21 18:48:29,443 :: DEBUG :: AUDIO_ID: 237_Speaker Number: 2
+2022-10-21 18:48:29,443 :: DEBUG :: AUDIO_ID: 237_Wait: 0
+2022-10-21 18:48:29,444 :: DEBUG :: AUDIO_ID: 237_Callback: https://www.example.com
+2022-10-21 18:48:43,926 :: DEBUG :: AUDIO_ID: 237_ノイズキャンセリング完了
+2022-10-21 18:48:45,225 :: DEBUG :: AUDIO_ID: 237_ファイル分割完了
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-21 18:57:43,983 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 238
+2022-10-21 18:57:44,015 :: DEBUG :: AUDIO_ID: 238_Language: ja
+2022-10-21 18:57:44,025 :: DEBUG :: AUDIO_ID: 238_Diarization: 1
+2022-10-21 18:57:44,028 :: DEBUG :: AUDIO_ID: 238_Speaker Number: 2
+2022-10-21 18:57:44,029 :: DEBUG :: AUDIO_ID: 238_Wait: 0
+2022-10-21 18:57:44,029 :: DEBUG :: AUDIO_ID: 238_Callback: https://www.example.com
+2022-10-21 18:57:47,666 :: DEBUG :: AUDIO_ID: 238_ノイズキャンセリング完了
+<<<<<<< HEAD
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 16:11:09,731 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 238
+2022-10-24 16:11:09,739 :: DEBUG :: AUDIO_ID: 238_Language: ja
+2022-10-24 16:11:09,749 :: DEBUG :: AUDIO_ID: 238_Diarization: 1
+2022-10-24 16:11:09,750 :: DEBUG :: AUDIO_ID: 238_Speaker Number: 2
+2022-10-24 16:11:09,751 :: DEBUG :: AUDIO_ID: 238_Wait: 0
+2022-10-24 16:11:09,752 :: DEBUG :: AUDIO_ID: 238_Callback: https://www.example.com
+All parameters valid, InitialResult: true
+2022-10-24 16:11:10,210 :: DEBUG :: AUDIO_ID: 238_ノイズキャンセリング完了
+IOException: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/wav_files/audio_238.wav (No such file or directory)
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 16:38:12,189 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 238
+2022-10-24 16:38:12,202 :: DEBUG :: AUDIO_ID: 238_Language: ja
+2022-10-24 16:38:12,220 :: DEBUG :: AUDIO_ID: 238_Diarization: 1
+2022-10-24 16:38:12,221 :: DEBUG :: AUDIO_ID: 238_Speaker Number: 2
+2022-10-24 16:38:12,221 :: DEBUG :: AUDIO_ID: 238_Wait: 0
+2022-10-24 16:38:12,222 :: DEBUG :: AUDIO_ID: 238_Callback: https://www.example.com
+All parameters valid, InitialResult: true
+2022-10-24 16:38:12,494 :: DEBUG :: AUDIO_ID: 238_ノイズキャンセリング完了
+IOException: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/wav_files/audio_238.wav (No such file or directory)
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 16:41:20,843 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 232
+2022-10-24 16:41:20,848 :: DEBUG :: AUDIO_ID: 232_Language: ja
+2022-10-24 16:41:20,859 :: DEBUG :: AUDIO_ID: 232_Diarization: 1
+2022-10-24 16:41:20,860 :: DEBUG :: AUDIO_ID: 232_Speaker Number: 2
+2022-10-24 16:41:20,861 :: DEBUG :: AUDIO_ID: 232_Wait: 0
+2022-10-24 16:41:20,862 :: DEBUG :: AUDIO_ID: 232_Callback: https://www.example.com
+All parameters valid, InitialResult: true
+2022-10-24 16:41:21,118 :: DEBUG :: AUDIO_ID: 232_ノイズキャンセリング完了
+IOException: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/wav_files/audio_232.wav (No such file or directory)
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 17:20:28,466 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 232
+2022-10-24 17:20:28,470 :: DEBUG :: AUDIO_ID: 232_Language: ja
+2022-10-24 17:20:28,511 :: DEBUG :: AUDIO_ID: 232_Diarization: 1
+2022-10-24 17:20:28,513 :: DEBUG :: AUDIO_ID: 232_Speaker Number: 2
+2022-10-24 17:20:28,513 :: DEBUG :: AUDIO_ID: 232_Wait: 0
+2022-10-24 17:20:28,513 :: DEBUG :: AUDIO_ID: 232_Callback: https://www.example.com
+All parameters valid, InitialResult: false
+2022-10-24 17:20:43,194 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 232
+2022-10-24 17:20:43,196 :: DEBUG :: AUDIO_ID: 232_Language: ja
+2022-10-24 17:20:43,197 :: DEBUG :: AUDIO_ID: 232_Diarization: 1
+2022-10-24 17:20:43,206 :: DEBUG :: AUDIO_ID: 232_Speaker Number: 2
+2022-10-24 17:20:43,207 :: DEBUG :: AUDIO_ID: 232_Wait: 0
+2022-10-24 17:20:43,208 :: DEBUG :: AUDIO_ID: 232_Callback: https://www.example.com
+All parameters valid, InitialResult: false
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 17:23:58,275 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 232
+2022-10-24 17:23:58,283 :: DEBUG :: AUDIO_ID: 232_Language: ja
+2022-10-24 17:23:58,296 :: DEBUG :: AUDIO_ID: 232_Diarization: 1
+2022-10-24 17:23:58,297 :: DEBUG :: AUDIO_ID: 232_Speaker Number: 2
+2022-10-24 17:23:58,298 :: DEBUG :: AUDIO_ID: 232_Wait: 0
+2022-10-24 17:23:58,299 :: DEBUG :: AUDIO_ID: 232_Callback: https://www.example.com
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 17:30:12,518 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 2333
+2022-10-24 17:30:12,522 :: DEBUG :: AUDIO_ID: 2333_Language: ja
+2022-10-24 17:30:12,527 :: DEBUG :: AUDIO_ID: 2333_Diarization: 0
+2022-10-24 17:30:12,528 :: DEBUG :: AUDIO_ID: 2333_Speaker Number: 3
+2022-10-24 17:30:12,528 :: DEBUG :: AUDIO_ID: 2333_Wait: 0
+2022-10-24 17:30:12,529 :: DEBUG :: AUDIO_ID: 2333_Callback: https://www.example.com
+All parameters valid, InitialResult: false
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 17:33:19,792 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 2333
+2022-10-24 17:33:19,803 :: DEBUG :: AUDIO_ID: 2333_Language: ja
+2022-10-24 17:33:19,809 :: DEBUG :: AUDIO_ID: 2333_Diarization: 0
+2022-10-24 17:33:19,810 :: DEBUG :: AUDIO_ID: 2333_Speaker Number: 3
+2022-10-24 17:33:19,811 :: DEBUG :: AUDIO_ID: 2333_Wait: 0
+2022-10-24 17:33:19,811 :: DEBUG :: AUDIO_ID: 2333_Callback: https://www.example.com
+All parameters valid, InitialResult: false
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 17:39:21,079 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 2333
+2022-10-24 17:39:21,085 :: DEBUG :: AUDIO_ID: 2333_Language: ja
+2022-10-24 17:39:21,095 :: DEBUG :: AUDIO_ID: 2333_Diarization: 0
+2022-10-24 17:39:21,096 :: DEBUG :: AUDIO_ID: 2333_Speaker Number: 3
+2022-10-24 17:39:21,097 :: DEBUG :: AUDIO_ID: 2333_Wait: 0
+2022-10-24 17:39:21,097 :: DEBUG :: AUDIO_ID: 2333_Callback: https://www.example.com
+2022-10-24 17:39:23,139 :: DEBUG :: AUDIO_ID: 2333_ノイズキャンセリング完了
+2022-10-24 17:39:23,503 :: DEBUG :: AUDIO_ID: 2333_無言音声削減完了
+2022-10-24 17:39:30,521 :: DEBUG :: AUDIO_ID: 2333_INITIAL_Return Code: : 200
+2022-10-24 17:39:31,016 :: DEBUG :: T1_ ============ START 1 audio_id: 2333 ============
+2022-10-24 17:39:31,028 :: DEBUG :: T1_ 開始時間: Mon Oct 24 17:39:31 2022
+2022-10-24 17:39:31,058 :: DEBUG :: T1_ ファイルサイズ: 9.6 MiB
+2022-10-24 17:39:31,059 :: DEBUG :: T1_ MEM###Before GCP Call: 38,514 kB
+2022-10-24 17:41:03,826 :: DEBUG :: T1_ GCP Completed at Mon Oct 24 17:41:03 2022
+2022-10-24 17:41:03,830 :: DEBUG :: T1_ MEM###After GCP Call: 29,718 kB
+2022-10-24 17:41:07,195 :: DEBUG :: T1_ 終了時間: Mon Oct 24 17:41:07 2022
+2022-10-24 17:41:07,196 :: DEBUG :: T1_ 処理時間: 00:-1:32
+2022-10-24 17:41:07,198 :: DEBUG :: T1_ AUDIO_ID: 2333_[]
+2022-10-24 17:41:07,199 :: DEBUG :: T1_ AUDIO_ID: 2333_WEBHOOK_RETURN_STATUS: true
+2022-10-24 17:41:07,200 :: DEBUG :: T1_ ============ END 1 audio_id: 2333 ============
+2022-10-24 17:42:09,480 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 2333
+2022-10-24 17:42:09,482 :: DEBUG :: AUDIO_ID: 2333_Language: ja
+2022-10-24 17:42:09,483 :: DEBUG :: AUDIO_ID: 2333_Diarization: 0
+2022-10-24 17:42:09,484 :: DEBUG :: AUDIO_ID: 2333_Speaker Number: 3
+2022-10-24 17:42:09,486 :: DEBUG :: AUDIO_ID: 2333_Wait: 0
+2022-10-24 17:42:09,487 :: DEBUG :: AUDIO_ID: 2333_Callback: https://www.example.com
+2022-10-24 18:23:38,647 :: DEBUG :: AUDIO_ID: 2333_ノイズキャンセリング完了
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 18:26:10,242 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 2333
+2022-10-24 18:26:10,248 :: DEBUG :: AUDIO_ID: 2333_Language: ja
+2022-10-24 18:26:10,259 :: DEBUG :: AUDIO_ID: 2333_Diarization: 0
+2022-10-24 18:26:10,260 :: DEBUG :: AUDIO_ID: 2333_Speaker Number: 3
+2022-10-24 18:26:10,261 :: DEBUG :: AUDIO_ID: 2333_Wait: 0
+2022-10-24 18:26:10,262 :: DEBUG :: AUDIO_ID: 2333_Callback: https://www.example.com
+2022-10-24 18:26:38,620 :: DEBUG :: AUDIO_ID: 2333_ノイズキャンセリング完了
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 18:27:23,607 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 2
+2022-10-24 18:27:23,612 :: DEBUG :: AUDIO_ID: 2_Language: ja
+2022-10-24 18:27:23,621 :: DEBUG :: AUDIO_ID: 2_Diarization: 0
+2022-10-24 18:27:23,622 :: DEBUG :: AUDIO_ID: 2_Speaker Number: 3
+2022-10-24 18:27:23,622 :: DEBUG :: AUDIO_ID: 2_Wait: 0
+2022-10-24 18:27:23,623 :: DEBUG :: AUDIO_ID: 2_Callback: https://www.example.com
+2022-10-24 18:27:56,475 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 2
+2022-10-24 18:27:56,477 :: DEBUG :: AUDIO_ID: 2_Language: ja
+2022-10-24 18:27:56,477 :: DEBUG :: AUDIO_ID: 2_Diarization: 0
+2022-10-24 18:27:56,477 :: DEBUG :: AUDIO_ID: 2_Speaker Number: 3
+2022-10-24 18:27:56,478 :: DEBUG :: AUDIO_ID: 2_Wait: 0
+2022-10-24 18:27:56,478 :: DEBUG :: AUDIO_ID: 2_Callback: https://www.example.com
+2022-10-24 18:28:20,360 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 2
+2022-10-24 18:28:20,362 :: DEBUG :: AUDIO_ID: 2_Language: ja
+2022-10-24 18:28:20,362 :: DEBUG :: AUDIO_ID: 2_Diarization: 0
+2022-10-24 18:28:20,362 :: DEBUG :: AUDIO_ID: 2_Speaker Number: 3
+2022-10-24 18:28:20,363 :: DEBUG :: AUDIO_ID: 2_Wait: 0
+2022-10-24 18:28:20,363 :: DEBUG :: AUDIO_ID: 2_Callback: https://www.example.com
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 18:33:32,883 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 244
+2022-10-24 18:33:32,889 :: DEBUG :: AUDIO_ID: 244_Language: ja
+2022-10-24 18:33:32,894 :: DEBUG :: AUDIO_ID: 244_Diarization: 0
+2022-10-24 18:33:32,895 :: DEBUG :: AUDIO_ID: 244_Speaker Number: 3
+2022-10-24 18:33:32,895 :: DEBUG :: AUDIO_ID: 244_Wait: 0
+2022-10-24 18:33:32,895 :: DEBUG :: AUDIO_ID: 244_Callback: https://www.example.com
+2022-10-24 18:33:34,734 :: DEBUG :: AUDIO_ID: 244_ノイズキャンセリング完了
+2022-10-24 18:33:35,101 :: DEBUG :: AUDIO_ID: 244_無言音声削減完了
+2022-10-24 18:34:13,232 :: DEBUG :: AUDIO_ID: 244_INITIAL_Return Code: : 200
+2022-10-24 18:34:13,681 :: DEBUG :: T1_ ============ START 1 audio_id: 244 ============
+2022-10-24 18:34:13,690 :: DEBUG :: T1_ 開始時間: Mon Oct 24 18:34:13 2022
+2022-10-24 18:34:13,711 :: DEBUG :: T1_ ファイルサイズ: 9.6 MiB
+2022-10-24 18:34:13,712 :: DEBUG :: T1_ MEM###Before GCP Call: 20,671 kB
+2022-10-24 18:35:56,094 :: DEBUG :: T1_ GCP Completed at Mon Oct 24 18:35:56 2022
+2022-10-24 18:35:56,095 :: DEBUG :: T1_ MEM###After GCP Call: 32,923 kB
+2022-10-24 18:35:59,294 :: DEBUG :: T1_ 終了時間: Mon Oct 24 18:35:59 2022
+2022-10-24 18:35:59,295 :: DEBUG :: T1_ 処理時間: 00:-1:42
+2022-10-24 18:35:59,297 :: DEBUG :: T1_ AUDIO_ID: 244_[]
+2022-10-24 18:35:59,298 :: DEBUG :: T1_ AUDIO_ID: 244_WEBHOOK_RETURN_STATUS: true
+2022-10-24 18:35:59,299 :: DEBUG :: T1_ ============ END 1 audio_id: 244 ============
+2022-10-24 18:38:23,370 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 1
+2022-10-24 18:38:23,373 :: DEBUG :: AUDIO_ID: 1_Language: ja
+2022-10-24 18:38:23,374 :: DEBUG :: AUDIO_ID: 1_Diarization: 0
+2022-10-24 18:38:23,374 :: DEBUG :: AUDIO_ID: 1_Speaker Number: 3
+2022-10-24 18:38:23,375 :: DEBUG :: AUDIO_ID: 1_Wait: 0
+2022-10-24 18:38:23,375 :: DEBUG :: AUDIO_ID: 1_Callback: https://www.example.com
+2022-10-24 18:38:47,106 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 2990
+2022-10-24 18:38:47,107 :: DEBUG :: AUDIO_ID: 2990_Language: ja
+2022-10-24 18:38:47,108 :: DEBUG :: AUDIO_ID: 2990_Diarization: 0
+2022-10-24 18:38:47,108 :: DEBUG :: AUDIO_ID: 2990_Speaker Number: 3
+2022-10-24 18:38:47,109 :: DEBUG :: AUDIO_ID: 2990_Wait: 0
+2022-10-24 18:38:47,109 :: DEBUG :: AUDIO_ID: 2990_Callback: https://www.example.com
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 18:53:16,378 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 2990
+2022-10-24 18:53:16,388 :: DEBUG :: AUDIO_ID: 2990_Language: ja
+2022-10-24 18:53:16,397 :: DEBUG :: AUDIO_ID: 2990_Diarization: 0
+2022-10-24 18:53:16,398 :: DEBUG :: AUDIO_ID: 2990_Speaker Number: 3
+2022-10-24 18:53:16,398 :: DEBUG :: AUDIO_ID: 2990_Wait: 0
+2022-10-24 18:53:16,400 :: DEBUG :: AUDIO_ID: 2990_Callback: https://www.example.com
+2022-10-24 18:53:17,086 :: DEBUG :: AUDIO_ID: 2990_ノイズキャンセリング完了
+2022-10-24 18:53:17,229 :: DEBUG :: AUDIO_ID: 2990_無言音声削減完了
+2022-10-24 18:53:39,502 :: DEBUG :: AUDIO_ID: 2990_INITIAL_Return Code: : 200
+2022-10-24 18:53:40,072 :: DEBUG :: T1_ ============ START 1 audio_id: 2990 ============
+2022-10-24 18:53:40,096 :: DEBUG :: T1_ 開始時間: Mon Oct 24 18:53:40 2022
+2022-10-24 18:53:40,127 :: DEBUG :: T1_ ファイルサイズ: 467.3 KiB
+2022-10-24 18:53:40,129 :: DEBUG :: T1_ MEM###Before GCP Call: 22,553 kB
+2022-10-24 18:54:12,920 :: DEBUG :: T1_ GCP Completed at Mon Oct 24 18:54:12 2022
+2022-10-24 18:54:12,923 :: DEBUG :: T1_ MEM###After GCP Call: 43,591 kB
+2022-10-24 18:54:17,536 :: DEBUG :: T1_ 終了時間: Mon Oct 24 18:54:17 2022
+2022-10-24 18:54:17,537 :: DEBUG :: T1_ 処理時間: 00:00:32
+2022-10-24 18:54:17,538 :: DEBUG :: T1_ AUDIO_ID: 2990_[]
+2022-10-24 18:54:17,539 :: DEBUG :: T1_ AUDIO_ID: 2990_WEBHOOK_RETURN_STATUS: true
+2022-10-24 18:54:17,540 :: DEBUG :: T1_ ============ END 1 audio_id: 2990 ============
+2022-10-24 18:55:21,209 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 2990
+2022-10-24 18:55:21,211 :: DEBUG :: AUDIO_ID: 2990_Language: ja
+2022-10-24 18:55:21,211 :: DEBUG :: AUDIO_ID: 2990_Diarization: 0
+2022-10-24 18:55:21,212 :: DEBUG :: AUDIO_ID: 2990_Speaker Number: 3
+2022-10-24 18:55:21,213 :: DEBUG :: AUDIO_ID: 2990_Wait: 0
+2022-10-24 18:55:21,214 :: DEBUG :: AUDIO_ID: 2990_Callback: https://www.example.com
+2022-10-24 18:55:45,355 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 2990
+2022-10-24 18:55:45,357 :: DEBUG :: AUDIO_ID: 2990_Language: ja
+2022-10-24 18:55:45,357 :: DEBUG :: AUDIO_ID: 2990_Diarization: 0
+2022-10-24 18:55:45,359 :: DEBUG :: AUDIO_ID: 2990_Speaker Number: 3
+2022-10-24 18:55:45,359 :: DEBUG :: AUDIO_ID: 2990_Wait: 0
+2022-10-24 18:55:45,360 :: DEBUG :: AUDIO_ID: 2990_Callback: https://www.example.com
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 18:56:45,004 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 111
+2022-10-24 18:56:45,012 :: DEBUG :: AUDIO_ID: 111_Language: ja
+2022-10-24 18:56:45,021 :: DEBUG :: AUDIO_ID: 111_Diarization: 0
+2022-10-24 18:56:45,021 :: DEBUG :: AUDIO_ID: 111_Speaker Number: 3
+2022-10-24 18:56:45,022 :: DEBUG :: AUDIO_ID: 111_Wait: 0
+2022-10-24 18:56:45,022 :: DEBUG :: AUDIO_ID: 111_Callback: https://www.example.com
+2022-10-24 18:57:04,419 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 111
+2022-10-24 18:57:04,420 :: DEBUG :: AUDIO_ID: 111_Language: ja
+2022-10-24 18:57:04,421 :: DEBUG :: AUDIO_ID: 111_Diarization: 0
+2022-10-24 18:57:04,422 :: DEBUG :: AUDIO_ID: 111_Speaker Number: 3
+2022-10-24 18:57:04,423 :: DEBUG :: AUDIO_ID: 111_Wait: 0
+2022-10-24 18:57:04,424 :: DEBUG :: AUDIO_ID: 111_Callback: https://www.example.com
+2022-10-24 18:57:05,135 :: DEBUG :: AUDIO_ID: 111_ノイズキャンセリング完了
+2022-10-24 18:57:05,262 :: DEBUG :: AUDIO_ID: 111_無言音声削減完了
+2022-10-24 18:57:56,728 :: DEBUG :: AUDIO_ID: 111_INITIAL_Return Code: : 200
+2022-10-24 18:57:57,209 :: DEBUG :: T1_ ============ START 1 audio_id: 111 ============
+2022-10-24 18:57:57,229 :: DEBUG :: T1_ 開始時間: Mon Oct 24 18:57:57 2022
+2022-10-24 18:57:57,264 :: DEBUG :: T1_ ファイルサイズ: 467.3 KiB
+2022-10-24 18:57:57,279 :: DEBUG :: T1_ MEM###Before GCP Call: 20,712 kB
+2022-10-24 18:58:29,833 :: DEBUG :: T1_ GCP Completed at Mon Oct 24 18:58:29 2022
+2022-10-24 18:58:29,837 :: DEBUG :: T1_ MEM###After GCP Call: 32,592 kB
+2022-10-24 18:58:35,567 :: DEBUG :: T1_ 終了時間: Mon Oct 24 18:58:35 2022
+2022-10-24 18:58:35,568 :: DEBUG :: T1_ 処理時間: 00:00:32
+2022-10-24 18:58:35,571 :: DEBUG :: T1_ AUDIO_ID: 111_[]
+2022-10-24 18:58:35,572 :: DEBUG :: T1_ AUDIO_ID: 111_WEBHOOK_RETURN_STATUS: true
+2022-10-24 18:58:35,575 :: DEBUG :: T1_ ============ END 1 audio_id: 111 ============
+log file: /Users/kaungmyatkhaing/BLISS_STOCK/VOITRA_AI_Server_Javaprj/src/static/logs/default.txt
+2022-10-24 19:19:25,035 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 110
+2022-10-24 19:19:25,044 :: DEBUG :: AUDIO_ID: 110_Language: ja
+2022-10-24 19:19:25,053 :: DEBUG :: AUDIO_ID: 110_Diarization: 0
+2022-10-24 19:19:25,055 :: DEBUG :: AUDIO_ID: 110_Speaker Number: 3
+2022-10-24 19:19:25,057 :: DEBUG :: AUDIO_ID: 110_Wait: 0
+2022-10-24 19:19:25,058 :: DEBUG :: AUDIO_ID: 110_Callback: https://www.example.com
+2022-10-24 19:19:25,750 :: DEBUG :: AUDIO_ID: 110_ノイズキャンセリング完了
+2022-10-24 19:19:25,855 :: DEBUG :: AUDIO_ID: 110_無言音声削減完了
+2022-10-24 19:20:01,889 :: DEBUG :: AUDIO_ID: 110_INITIAL_Return Code: : 200
+2022-10-24 19:20:02,472 :: DEBUG :: T1_ ============ START 1 audio_id: 110 ============
+2022-10-24 19:20:02,488 :: DEBUG :: T1_ 開始時間: Mon Oct 24 19:20:02 2022
+2022-10-24 19:20:02,518 :: DEBUG :: T1_ ファイルサイズ: 467.3 KiB
+2022-10-24 19:20:02,519 :: DEBUG :: T1_ MEM###Before GCP Call: 19,725 kB
+2022-10-24 19:20:35,082 :: DEBUG :: T1_ GCP Completed at Mon Oct 24 19:20:35 2022
+2022-10-24 19:20:35,085 :: DEBUG :: T1_ MEM###After GCP Call: 32,799 kB
+2022-10-24 19:20:38,214 :: DEBUG :: T1_ 終了時間: Mon Oct 24 19:20:38 2022
+2022-10-24 19:20:38,216 :: DEBUG :: T1_ 処理時間: 00:00:32
+2022-10-24 19:20:38,217 :: DEBUG :: T1_ AUDIO_ID: 110_[]
+2022-10-24 19:20:38,219 :: DEBUG :: T1_ AUDIO_ID: 110_WEBHOOK_RETURN_STATUS: true
+2022-10-24 19:20:38,220 :: DEBUG :: T1_ ============ END 1 audio_id: 110 ============
+2022-10-24 19:20:44,685 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 099
+2022-10-24 19:20:44,685 :: DEBUG :: AUDIO_ID: 099_Language: ja
+2022-10-24 19:20:44,686 :: DEBUG :: AUDIO_ID: 099_Diarization: 0
+2022-10-24 19:20:44,687 :: DEBUG :: AUDIO_ID: 099_Speaker Number: 3
+2022-10-24 19:20:44,688 :: DEBUG :: AUDIO_ID: 099_Wait: 0
+2022-10-24 19:20:44,698 :: DEBUG :: AUDIO_ID: 099_Callback: https://www.example.com
+2022-10-24 19:21:04,065 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 891
+2022-10-24 19:21:04,066 :: DEBUG :: AUDIO_ID: 891_Language: ja
+2022-10-24 19:21:04,067 :: DEBUG :: AUDIO_ID: 891_Diarization: 0
+2022-10-24 19:21:04,069 :: DEBUG :: AUDIO_ID: 891_Speaker Number: 3
+2022-10-24 19:21:04,070 :: DEBUG :: AUDIO_ID: 891_Wait: 0
+2022-10-24 19:21:04,071 :: DEBUG :: AUDIO_ID: 891_Callback: https://www.example.com
+2022-10-24 19:21:04,778 :: DEBUG :: AUDIO_ID: 891_ノイズキャンセリング完了
+2022-10-24 19:21:05,209 :: DEBUG :: AUDIO_ID: 891_無言音声削減完了
+2022-10-24 19:21:14,224 :: DEBUG :: AUDIO_ID: 891_INITIAL_Return Code: : 200
+2022-10-24 19:21:14,227 :: DEBUG :: T1_ ============ START 1 audio_id: 891 ============
+2022-10-24 19:21:14,227 :: DEBUG :: T1_ 開始時間: Mon Oct 24 19:21:14 2022
+2022-10-24 19:21:14,228 :: DEBUG :: T1_ ファイルサイズ: 467.3 KiB
+2022-10-24 19:21:14,229 :: DEBUG :: T1_ MEM###Before GCP Call: 36,785 kB
+2022-10-24 19:21:44,267 :: DEBUG :: T1_ GCP Completed at Mon Oct 24 19:21:44 2022
+2022-10-24 19:21:44,271 :: DEBUG :: T1_ MEM###After GCP Call: 40,310 kB
+2022-10-24 19:21:47,709 :: DEBUG :: T1_ 終了時間: Mon Oct 24 19:21:47 2022
+2022-10-24 19:21:47,711 :: DEBUG :: T1_ 処理時間: 00:00:30
+2022-10-24 19:21:47,711 :: DEBUG :: T1_ AUDIO_ID: 891_[]
+2022-10-24 19:21:47,712 :: DEBUG :: T1_ AUDIO_ID: 891_WEBHOOK_RETURN_STATUS: true
+2022-10-24 19:21:47,713 :: DEBUG :: T1_ ============ END 1 audio_id: 891 ============
+

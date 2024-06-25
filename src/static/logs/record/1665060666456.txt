@@ -1,0 +1,13 @@
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 19:22:01,040 :: DEBUG :: T1_ ============ START 1 audio_id: D:\BlissStock\Voitra_dev/src/static/wav_files/audio_45_ncAfftdn.wav ============
+2022-10-06 19:22:01,059 :: DEBUG :: T1_ ????: Thu Oct 06 19:22:01 2022
+2022-10-06 19:22:01,076 :: DEBUG :: T1_ ???????: 366.4 KiB
+2022-10-06 19:22:01,077 :: DEBUG :: T1_ MEM###Before GCP Call: 32,603 kB
+2022-10-06 19:22:21,900 :: DEBUG :: T1_ GCP Completed at Thu Oct 06 19:22:21 2022
+2022-10-06 19:22:21,900 :: DEBUG :: T1_ MEM###After GCP Call: 102,271 kB
+2022-10-06 19:22:24,777 :: DEBUG :: T1_ MEM###Before GCP Call: 48,987 kB
+2022-10-06 19:22:25,136 :: DEBUG :: T1_ ????: Thu Oct 06 19:22:25 2022
+2022-10-06 19:22:25,136 :: DEBUG :: T1_ ????: 00:00:20
+2022-10-06 19:22:25,151 :: DEBUG :: T1_ AUDIO_ID: D:\BlissStock\Voitra_dev/src/static/wav_files/audio_45_ncAfftdn.wav_[{stop=4.0, speaker=2, start=0.0, text=?????????????????}, {stop=7.2, speaker=1, start=4.0, text=??????????????????}]
+2022-10-06 19:22:25,151 :: DEBUG :: T1_ AUDIO_ID: D:\BlissStock\Voitra_dev/src/static/wav_files/audio_45_ncAfftdn.wav_WEBHOOK_RETURN_STATUS: true
+2022-10-06 19:22:25,151 :: DEBUG :: T1_ ============ END 1 audio_id: D:\BlissStock\Voitra_dev/src/static/wav_files/audio_45_ncAfftdn.wav ============

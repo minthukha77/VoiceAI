@@ -1,0 +1,9 @@
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 20:14:28,943 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 50
+2022-10-06 20:14:28,961 :: DEBUG :: AUDIO_ID: 50_Language: ja
+2022-10-06 20:14:28,978 :: DEBUG :: AUDIO_ID: 50_Diarization: 1
+2022-10-06 20:14:28,979 :: DEBUG :: AUDIO_ID: 50_Speaker Number: 2
+2022-10-06 20:14:28,979 :: DEBUG :: AUDIO_ID: 50_Wait: 0
+2022-10-06 20:14:28,979 :: DEBUG :: AUDIO_ID: 50_Callback: https://www.example.com
+2022-10-06 20:14:28,980 :: DEBUG :: AUDIO_ID: 50_INITIAL_Return Code: : 200
+Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NumberFormatException: null] with root cause

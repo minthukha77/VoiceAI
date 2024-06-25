@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.2",
+  "description": "install awscli and docker",
+  "parameters": {
+    "ASGNAME": {
+      "type": "String",
+      "description": "Auto Scaling group name",
+      "default": "EC2ContainerService-AI-Server-New-Cluster-EcsInstanceAsg-1KHQQ4K39QL2N"
+    },
+    "LIFECYCLEHOOKNAME": {
+      "type": "String",
+      "description": "LIFECYCLEHOOK name",
+      "default": "launchhook"
+    }
+  },
+  "runtimeConfig": {
+    "aws:runShellScript": {
+      "properties": [
+        {
+          "id": "0.aws:runShellScript",
+          "runCommand": [
+            "",
+            "#!/bin/bash ",
+            "yum update -y",
+            "yum install awscli -y",
+            "aws configure set aws_access_key_id \"***\" --profile USER && aws configure set aws_secret_access_key \"***\" --profile USER && aws configure set region \"ap-northeast-1\" --profile USER && aws configure set output \"json\" --profile USER",
+            "systemctl start docker"
+          ]
+        }
+      ]
+    }
+  }
+}

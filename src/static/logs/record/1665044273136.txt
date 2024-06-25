@@ -1,0 +1,2 @@
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.nio.file.InvalidPathException: Illegal char <:> at index 65: D:\BlissStock\VOITRA_AI_Server_JavaPrj_PIF/src/static/wav_files/D:\BlissStock\VOITRA_AI_Server_JavaPrj_PIF/src/static/wav_files/audio_100_ncAfftdn.wav] with root cause

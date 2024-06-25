@@ -1,0 +1,17 @@
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NumberFormatException: null] with root cause
+2022-10-06 15:28:18,270 :: DEBUG :: T1_ ============ START 1 audio_id: D:\BlissStock\VOITRA_AI_Server_JavaPrj_PIF/src/static/wav_files/audio_106_ncAfftdn.wav ============
+2022-10-06 15:28:18,314 :: DEBUG :: T1_ ????: Thu Oct 06 15:28:18 2022
+2022-10-06 15:28:18,370 :: DEBUG :: T1_ ???????: 366.4 KiB
+2022-10-06 15:28:18,373 :: DEBUG :: T1_ Memory before GCP: 71,723 kB
+2022-10-06 15:28:29,822 :: DEBUG :: T1_ GCP Completed at Thu Oct 06 15:28:29 2022
+2022-10-06 15:28:29,822 :: DEBUG :: T1_ Memory after GCP: 25,227 kB
+2022-10-06 15:28:31,983 :: DEBUG :: T1_ EXCEPTION: RETRYING
+2022-10-06 15:28:31,983 :: DEBUG :: T1_ ============ START 1 audio_id: D:\BlissStock\VOITRA_AI_Server_JavaPrj_PIF/src/static/wav_files/audio_106_ncAfftdn.wav ============
+2022-10-06 15:28:31,983 :: DEBUG :: T1_ ????: Thu Oct 06 15:28:31 2022
+2022-10-06 15:28:31,983 :: DEBUG :: T1_ ???????: 366.4 KiB
+2022-10-06 15:28:31,983 :: DEBUG :: T1_ Memory before GCP: 54,627 kB
+2022-10-06 15:28:41,991 :: DEBUG :: T1_ GCP Completed at Thu Oct 06 15:28:41 2022
+2022-10-06 15:28:41,991 :: DEBUG :: T1_ Memory after GCP: 58,048 kB
+2022-10-06 15:28:42,272 :: DEBUG :: T1_ EXCEPTION: {"detail":[{"loc":["body","url"],"msg":"invalid or missing URL scheme","type":"value_error.url.scheme"}]}
+2022-10-06 15:28:42,272 :: DEBUG :: T1_ EXCEPTION: GCP_FAILED

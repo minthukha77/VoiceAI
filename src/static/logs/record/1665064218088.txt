@@ -1,0 +1,20 @@
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-06 20:20:47,304 :: DEBUG :: NEW AUDIO RECEIVED: AUDIO_ID: 55555
+2022-10-06 20:20:47,324 :: DEBUG :: AUDIO_ID: 55555_Language: ja
+2022-10-06 20:20:47,339 :: DEBUG :: AUDIO_ID: 55555_Diarization: 1
+2022-10-06 20:20:47,339 :: DEBUG :: AUDIO_ID: 55555_Speaker Number: 2
+2022-10-06 20:20:47,339 :: DEBUG :: AUDIO_ID: 55555_Wait: 0
+2022-10-06 20:20:47,340 :: DEBUG :: AUDIO_ID: 55555_Callback: https://www.example.com
+2022-10-06 20:20:47,341 :: DEBUG :: AUDIO_ID: 55555_INITIAL_Return Code: : 200
+2022-10-06 20:20:47,639 :: DEBUG :: AUDIO_ID: 55555_????????????
+2022-10-06 20:20:57,382 :: DEBUG :: T1_ ============ START 1 audio_id: 55555 ============
+2022-10-06 20:20:57,396 :: DEBUG :: T1_ ????: Thu Oct 06 20:20:57 2022
+2022-10-06 20:20:57,416 :: DEBUG :: T1_ ???????: 366.4 KiB
+2022-10-06 20:20:57,417 :: DEBUG :: T1_ MEM###Before GCP Call: 65,027 kB
+2022-10-06 20:21:18,852 :: DEBUG :: T1_ GCP Completed at Thu Oct 06 20:21:18 2022
+2022-10-06 20:21:18,855 :: DEBUG :: T1_ MEM###After GCP Call: 38,757 kB
+2022-10-06 20:21:22,143 :: DEBUG :: T1_ ????: Thu Oct 06 20:21:22 2022
+2022-10-06 20:21:22,144 :: DEBUG :: T1_ ????: 00:00:21
+2022-10-06 20:21:22,145 :: DEBUG :: T1_ AUDIO_ID: 55555_[{stop=4.0, speaker=1, start=0.0, text=?????????????????}, {stop=7.2, speaker=2, start=4.0, text=??????????????????}]
+2022-10-06 20:21:22,146 :: DEBUG :: T1_ AUDIO_ID: 55555_WEBHOOK_RETURN_STATUS: true
+2022-10-06 20:21:22,146 :: DEBUG :: T1_ ============ END 1 audio_id: 55555 ============

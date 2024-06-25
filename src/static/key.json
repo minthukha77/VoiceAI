@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "voitra",
+  "private_key_id": "500866552754b33cb36fc8433b4d46ac0a824bd0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDZl340asUekqmq\nwY+QSvozqGdVzcIoIyh5pxr2HiHLnuhm0MWh+LtMuya/CHWby/FV3c8EXT/w2JXM\nIr6N4iflNQ3MMOvTjGPE9rxgxigf/fwvvjBS3N7PHGrSaIUt4o6ITlp4pCdNyLBX\nzmjW3pxw3vjkpSHb/+uaW2eE+IOnYHHXIBSn3259mlY7uJ2Am9TYoA7dtF8aKFtv\nrLMZYs1wCuQcdoSrtVClnvTUIFIUb90WI1EIFHf0GBx8TX5FONzBCNQcCutliE1V\nEiOVTSm/EblbTAc9lcWvXvRHbInAeWukWSd9h9Wuo1ogAIWBpyQzBJeZCw1MBUEt\nkFys+nfdAgMBAAECgf9C51HCOe2GwiP7XPZZ1UY9wIoFaj62Yc/rl+OyW5F2U4qP\ngDQfve1G87I/U+zVjN+nq9T7XfndXU1ELfz7o0TqNPgtrAGyU1PHqczUhvSq4ZHy\nQKzkO06QFuOc8xiSTGAZP/5IPnogcJSjj4qsz8XcpY3h5FIXLnTVJdf3wZZwTaXg\nTNJ9EyxnU1qxK7IANKBSJyXI0tC+mUJyTgiEbFw1eo6eZsMTccqu5lmqYgB5Y6dI\nVP4UHW0WjN4i9dCGqKfTFhs56rDxZxBFEOGxbqml9WqiQRYWhmP+wHSAWqBPijMQ\nThkRyqhFIkLj1GKFh+sZVcyrdcYIN7ip/E39aB0CgYEA+nVkuHRjxm1fWS2cEwOo\nPjaEysQz77cxnkm6h4Q/fHFM+QnJOyuL0zNkPO7zD07BAjoEqn3yGrP81wPGB2Yi\n+gBLRA2+YuEfakBt3DgmXZ39ya6QElOtvqG9pGH9oPMjAiXbzIOiccs7LC5X772/\nP5HbStM0UfnAvpURsd01KxcCgYEA3mfw14ug/shzh3OMLmb4+5mIUcblKbTIQ7z3\nlDvXhNVzaZgnoowI7tw8ANvS0HqJvFVuIi8vlyGE4atEQUD49DrXzjnlqJEdImdi\nvbGecFbPbYP9cqOe687oyqi5wt2GAGNLlMNuaMxkINuGtDdnKLytlE6E6ZNXbomm\nucJOfSsCgYEAtYv8u1vaqw3CzLCr7nh7LsV0EkqQXxXKiLNm2y54mmrCYc6/J/3T\nt/8LjMOkOhda/pMxqKfso4COKQlaNSjK967Y3/aaZ7BJhko3mCa3YKrSOKwpUK+J\nRKKXBZ3mLBGx8a+hmKheSuAG/2qEYYqII7tFWwKnbTh9h2gk0GnJTXcCgYBxZ1yF\n+7t+zqUh9wgOjRD98Z5x3FHzfyvyZkNzgUP2hoRP3navSmovqXqrEWugRCtBLep3\nYcoJbNz92L936nJGzk5F6H2zAzNw3HibsxrPu2QPOpMcRlP9d0Z6N6hotV3jir36\nP+BnbXjMzEMWV32xZuu3SIY7N5cIVQX/iBVPewKBgQCIJIMvFlae2ZXO1iN/HoUA\nxc7pJObElPCSdNw3k8wNF+DfWMkF1ZpT9fH4Ijw8mIGaB8Wcrl1VwfP9KtlzICy1\n+WsbMjAtp9JRlTgZd0/r8iJVcoh3Dk6wTcOIj7S73d55BdOV7c6pAwmgFtwNba0Y\n3bTMAP9f0AhIBoIoUTO2Qg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "voitra@voitra.iam.gserviceaccount.com",
+  "client_id": "115580099916117180947",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voitra%40voitra.iam.gserviceaccount.com"
+}

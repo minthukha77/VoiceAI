@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "1.2",
+  "description": "Backup logs to S3",
+  "parameters": {
+    "ASGNAME": {
+      "type": "String",
+      "description": "Auto Scaling group name"
+    },
+    "LIFECYCLEHOOKNAME": {
+      "type": "String",
+      "description": "LIFECYCLEHOOK name"
+    },
+    "BACKUPDIRECTORY": {
+      "type": "String",
+      "description": "BACKUPDIRECTORY localtion in server"
+    },
+    "S3BUCKET": {
+      "type": "String",
+      "description": "S3BUCKET backup logs"
+    },
+    "SNSTARGET": {
+      "type": "String",
+      "description": "SNSTARGET"
+    }
+  },
+  "runtimeConfig": {
+    "aws:runShellScript": {
+      "properties": [
+        {
+          "id": "0.aws:runShellScript",
+          "runCommand": [
+            "",
+            "#!/bin/bash ",
+            "yum update -y",
+            "yum install awscli -y",
+            "aws configure set aws_access_key_id \"***\" --profile USER && aws configure set aws_secret_access_key \"***\" --profile USER && aws configure set region \"ap-northeast-1\" --profile USER && aws configure set output \"json\" --profile USER",
+            "INSTANCEID=$(curl http://169.254.169.254/latest/meta-data/instance-id)",
+            "HOOKRESULT='CONTINUE'",
+            "REGION=$(curl -s 169.254.169.254/latest/meta-data/placement/availability-zone | sed 's/.$//')",
+            "systemctl start docker",
+            "containerId=$(docker container ls --all --quiet --filter \"name=ecs-TaskVoitra-2\")",
+            "echo \"ContainerID\" $containerId",
+            "docker cp ${containerId}:/usr/local/src/static/logs/default-log.txt /home/ec2-user/",
+            "chmod 777 default-log.txt",
+            "if [ -e default-log.txt ]",
+            "then",
+            "echo \"ok\"",
+            "else",
+            "echo \"nok\"",
+            "fi",
+            "MESSAGE=''",
+            "",
+            "if [ -d \"{{BACKUPDIRECTORY}}\" ];",
+            "then",
+            "tar -cf /tmp/${INSTANCEID}.tar {{BACKUPDIRECTORY}} &> /tmp/backup",
+            "if [ $? -ne 0 ]",
+            "then",
+            "   MESSAGE=$(cat /tmp/backup)",
+            "echo $MESSAGE",
+            "else",
+            "aws s3 cp /tmp/${INSTANCEID}.tar s3://{{S3BUCKET}}/logs/ &> /tmp/backup",
+            "       MESSAGE=$(cat /tmp/backup)",
+            "echo $MESSAGE",
+            "fi",
+            "else",
+            " MESSAGE= \"{{BACKUPDIRECTORY}}\" directory Not exits in this server ",
+            "echo $MESSAGE",
+            "fi",
+            "",
+            "aws sns publish --subject ' Report-Logs_backup-{{ASGNAME}} ' --message \"$MESSAGE\"  --target-arn {{SNSTARGET}} --region ${REGION}",
+            "aws autoscaling complete-lifecycle-action --lifecycle-hook-name {{LIFECYCLEHOOKNAME}} --auto-scaling-group-name {{ASGNAME}} --lifecycle-action-result ${HOOKRESULT} --instance-id ${INSTANCEID}  --region ${REGION}"
+          ]
+        }
+      ]
+    }
+  }
+}

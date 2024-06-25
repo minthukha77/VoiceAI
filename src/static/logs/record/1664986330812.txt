@@ -1,0 +1,22 @@
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-05 22:42:24,748 :: DEBUG :: T1_ ============ START 1 audio_id: 100.wav ============
+2022-10-05 22:42:24,767 :: DEBUG :: T1_ ????: Wed Oct 05 22:42:24 2022
+2022-10-05 22:42:24,787 :: DEBUG :: T1_ ???????: 2.8 MiB
+2022-10-05 22:42:24,789 :: DEBUG :: T1_ CPU Percent Usage by JVM: 0.11
+2022-10-05 22:42:25,501 :: DEBUG :: T1_ CPU Percent Usage Overall: 0.09
+2022-10-05 22:42:25,502 :: DEBUG :: T1_ Memory before GCP: 49,130 kB
+2022-10-05 22:42:46,092 :: DEBUG :: T1_ Memory after GCP: 106,593 kB
+2022-10-05 22:42:46,094 :: DEBUG :: T1_ CPU Percent Usage by JVM: 0.02
+2022-10-05 22:42:46,118 :: DEBUG :: T1_ CPU Percent Usage Overall: 0.05
+2022-10-05 22:42:49,228 :: DEBUG :: T1_ EXCEPTION: RETRYING
+2022-10-05 22:42:49,233 :: DEBUG :: T1_ ============ START 1 audio_id: 100.wav ============
+2022-10-05 22:42:49,233 :: DEBUG :: T1_ ????: Wed Oct 05 22:42:49 2022
+2022-10-05 22:42:49,233 :: DEBUG :: T1_ ???????: 2.8 MiB
+2022-10-05 22:42:49,234 :: DEBUG :: T1_ CPU Percent Usage by JVM: 0.02
+2022-10-05 22:42:49,249 :: DEBUG :: T1_ CPU Percent Usage Overall: 0.04
+2022-10-05 22:42:49,249 :: DEBUG :: T1_ Memory before GCP: 54,913 kB
+2022-10-05 22:43:09,284 :: DEBUG :: T1_ Memory after GCP: 59,530 kB
+2022-10-05 22:43:09,285 :: DEBUG :: T1_ CPU Percent Usage by JVM: 0.00
+2022-10-05 22:43:09,300 :: DEBUG :: T1_ CPU Percent Usage Overall: 0.13
+2022-10-05 22:43:09,986 :: DEBUG :: T1_ EXCEPTION: {"detail":[{"loc":["body","url"],"msg":"invalid or missing URL scheme","type":"value_error.url.scheme"}]}
+2022-10-05 22:43:09,986 :: DEBUG :: T1_ EXCEPTION: GCP_FAILED

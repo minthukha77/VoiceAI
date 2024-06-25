@@ -1,0 +1,2 @@
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NumberFormatException: null] with root cause

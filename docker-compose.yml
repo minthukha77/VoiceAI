@@ -1,0 +1,25 @@
+# version: "3"
+
+# services:
+#   app:
+
+#     build: .
+#     ports:
+#       - "8080:8080"
+#     volumes:
+#       - app-volume:/usr/local/src/static
+#   fluentd:
+#     container_name: fluentd
+#     user: root
+#     build: ./fluentd
+#     image: fluent/fluentd:v1.15.0-debian-1.0
+
+#     volumes:
+#       - app-volume:/usr/local/src/static
+#       - ./fluentd/fluent.conf:/fluentd/etc/fluent.conf
+#       - /var/lib/docker/containers:/fluentd/log/containers
+
+# volumes:
+#   app-volume:
+
+
